@@ -1,4 +1,4 @@
-<h1 style="text-align:center">PAT新人指南 </h1>
+<h1 style="text-align:center">PAT新人wiki </h1>
 
 ### 手机下载安装日报撰写工具asana，注册好账号后将账号发送给导师，用于建立每天的日报task。
 
