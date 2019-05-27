@@ -1,3 +1,5 @@
+本项目不再更新维护！！！
+***
 <h1 style="text-align:center">PAT新人wiki </h1>
 
 ### 手机下载安装日报撰写工具asana，注册好账号后将账号发送给导师，用于建立每天的日报task。
@@ -43,12 +45,5 @@
 * 不允许出现常见英文单词及缩写
 
 **PS:所有的账号注册都请使用预留在公司的手机号注册，**
-
-***
-有需要更新和增加的信息告知我：
-
-> Email: MALI913@PINGAN.COM.CN
->
-> WeChat: longway_ml
 
 :smiling_imp: 路遥出品，必属精品​ :smiling_imp:
